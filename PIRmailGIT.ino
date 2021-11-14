@@ -54,8 +54,8 @@ int pictureNumber = 0;
 String path;
 
 #define uS_TO_S_FACTOR 1000000
-#define WIFI_SSID "AM-WLAN"
-#define WIFI_PASSWORD "3151813169492058"
+#define WIFI_SSID "XXXXXXXXX"
+#define WIFI_PASSWORD "XXXXXXXXXXXXX"
 ESP32TimeHelper timeHelper; //modAM
 //The Email Sending data object contains config and data to send
 SMTPData smtpData;
